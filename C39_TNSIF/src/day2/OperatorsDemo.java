@@ -4,7 +4,7 @@ package day2;
 public class OperatorsDemo {
 	public static void main(String args[]) {
 		int a = 10;
-		int b = 20;
+		int b = 30;
 		 int x = 10;
 		System.out.println("a and b value before the operations: " + a + " " + b);
 
